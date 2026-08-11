@@ -34,6 +34,7 @@ Raw CSV Files
        │
        ▼
  Business Intelligence
+```
 
 # Project Overview
 
