@@ -1,25 +1,16 @@
 /*
 ==============================================================================
-CREATE BIGQUERY DATASETS(SCHEMAS)
+CREATE MySQL Schemas for Industrial Data Warehouse
 ==============================================================================
 Script Purpose:
-This script sets up three datasets within the BigQuery project: 'bronze', 'silver' and 'gold'.
+This script sets up three schemas within the MySQL database: 'bronze', 'silver' and 'gold'.
 */
 
--- Bronze Layer Dataset
-CREATE
-  SCHEMA `industrial-data-warehouse.bronze`
-  OPTIONS (
-    location = 'europe-southwest1');
+-- Bronze Layer Schema
+CREATE SCHEMA IF NOT EXISTS industrial_dw_bronze;
 
--- Silver Layer Dataset
-CREATE
-  SCHEMA `industrial-data-warehouse.silver`
-  OPTIONS (
-    location = 'europe-southwest1');
+-- Silver Layer Schema
+CREATE SCHEMA IF NOT EXISTS industrial_dw_silver;
 
--- Gold Layer Dataset
-CREATE
-  SCHEMA `industrial-data-warehouse.gold`
-  OPTIONS (
-    location = 'europe-southwest1');
+-- Gold Layer Schema
+CREATE SCHEMA IF NOT EXISTS industrial_dw_gold;

@@ -1,0 +1,4 @@
+turno_id,nombre_turno,hora_inicio,hora_fin
+T1, mañana ,06:00,14:00
+T2,TARDE,14:00,22:00
+T3, noche ,22:00,06:00

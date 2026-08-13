@@ -1,0 +1,30 @@
+producto_id,nombre_producto,linea_producto,base_quimica
+PRD001,Esmalte Sintético Brillante Blanco,Esmaltes,Alquídica
+PRD002,Esmalte al Agua Satinado,Esmaltes, acrílica 
+PRD003,ESMALTE ANTIÓXIDO ROJO ÓXIDO,ESMALTES,Alquídica
+PRD004,Esmalte Alto Tráfico Gris,Esmaltes,Poliuretano
+PRD005,Esmalte Martillado Negro,Esmaltes,Alquídica
+PRD006,Látex Vinílico Interior Blanco,Látex,Vinílica
+PRD007,Látex Acrílico Exterior Premium,Látex,acrílica
+PRD008,Látex Lavable Mate,Látex,Vinil-acrílica
+PRD009,Látex Económico Interior, Látex ,vinílica
+PRD010,Látex Antihongos para Baños,Látex,Acrílica
+PRD011, Látex Texturizado para Fachadas ,Látex,Acrílica
+PRD012,Anticorrosivo Zincromato Amarillo,Anticorrosivos,Alquídica
+PRD013,Anticorrosivo Epóxico Industrial,Anticorrosivos,Epóxica
+PRD014,Fondo Anticorrosivo Gris,Anticorrosivos,Alquídica
+PRD015,Anticorrosivo Base Zinc Inorgánico,Anticorrosivos,Zinc inorgánico
+PRD016,Anticorrosivo Marino Bicomponente,anticorrosivos,Epóxica
+PRD017,Barniz Marino Poliuretánico,Barnices,Poliuretano
+PRD018,Barniz para Madera Brillante,Barnices,Alquídica
+PRD019,Barniz Catalizado Alto Brillo,Barnices,Nitrocelulosa
+PRD020,Barniz Marino Transparente,Barnices,Poliuretano
+PRD021,Sellador Acrílico para Fisuras,Selladores,Acrílica
+PRD022,Sellador de Silicona Neutra,Selladores,Silicona
+PRD023,Sellador Poliuretánico para Juntas,Selladores,Poliuretano
+PRD024,Sellador Acrílico para Techos,Selladores,Acrílica
+PRD025,Recubrimiento Epóxico Piso Industrial,Recubrimientos Industriales,Epóxica
+PRD026,Recubrimiento Poliuretánico UV,Recubrimientos Industriales,Poliuretano
+PRD027,Recubrimiento Vinil-éster para Tanques,Recubrimientos Industriales,Vinil-éster
+PRD028,Recubrimiento Epóxico Alto Sólido,Recubrimientos Industriales,Epóxica
+PRD029,Recubrimiento Poliuretánico para Piso,Recubrimientos Industriales,Poliuretano
