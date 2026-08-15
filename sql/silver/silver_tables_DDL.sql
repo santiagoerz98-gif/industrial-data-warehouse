@@ -81,9 +81,9 @@ OPTIONS (
 CREATE OR REPLACE TABLE
     `industrial-data-warehouse.silver.erp_pack_opt`
 (
-    presentacion_id STRING,
-    tipo_envase STRING,
-    capacidad_litros FLOAT64
+    pkg_id STRING,
+    pkg_type STRING,
+    pkg_cap_l FLOAT64
 )
 OPTIONS (
     description = 'Cleaned packaging and presentation data ingested from bronze.erp_pack_opt'
@@ -105,10 +105,10 @@ OPTIONS (
 CREATE OR REPLACE TABLE
     `industrial-data-warehouse.silver.erp_shift_info`
 (
-    turno_id STRING,
-    nombre_turno STRING,
-    hora_inicio TIME,
-    hora_fin TIME
+    shft_id STRING,
+    shft_nm STRING,
+    start_tm TIME,
+    end_tm TIME
 )
 OPTIONS (
     description = 'Cleaned production shift data ingested from bronze.erp_shift_info'
