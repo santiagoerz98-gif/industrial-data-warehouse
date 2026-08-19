@@ -45,3 +45,4 @@ SELECT
     PARSE_TIME('%H:%M', start_time),
     PARSE_TIME('%H:%M', end_time)
 FROM `bronze.erp_shift_info`
+
